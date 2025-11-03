@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heart
+  - Shungite
+  - SpeechBubble
+  - GameSession
+  - Steam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Climbing
+  - Player
+  - Background
+  - Enemy
+  - Hazards
+  - Interactables
+  - Wall
+  - 5G
+  - Heart
+  - Background 2
+  - Foreground
+  - Text
+  - Portal
+  - Ground Hazards
+  - Foreground 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 2
+    uniqueID: 1012246921
+    locked: 0
+  - name: Background
+    uniqueID: 2425972467
+    locked: 0
+  - name: Hazards
+    uniqueID: 2799037091
+    locked: 0
+  - name: Ground
+    uniqueID: 3744862253
+    locked: 0
+  - name: Interactables
+    uniqueID: 622844951
+    locked: 0
+  - name: Ground Hazards
+    uniqueID: 4245680377
+    locked: 0
+  - name: Climbing
+    uniqueID: 3950756827
+    locked: 0
+  - name: Player
+    uniqueID: 125930379
+    locked: 0
+  - name: Enemy
+    uniqueID: 1843074299
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 2118339459
+    locked: 0
+  - name: Foreground
+    uniqueID: 141519617
+    locked: 0
+  - name: Text
+    uniqueID: 532631299
+    locked: 0

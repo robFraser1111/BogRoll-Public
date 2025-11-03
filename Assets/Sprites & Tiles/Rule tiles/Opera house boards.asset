@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Opera house boards
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: -1499325453348481656, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    - {fileID: -1742274814386509810, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    - {fileID: 4386969968295104926, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    - {fileID: -4708868868202963202, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    - {fileID: -9182375375018079858, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    - {fileID: 4559264369916119461, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    - {fileID: -7495531564338535374, guid: 686d4249a003aff4b8794583e47821e0, type: 3}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Apartment walls
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 7633922099295196047, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: -7047149463114717467, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: -1712333501467342294, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: 5926185047553352942, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: -2591835848178071560, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: -9215015419409682426, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: 3282037851858911090, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: 7759231726552277998, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    - {fileID: -7591593212077751241, guid: a9b26e563a3a5f04eb050c66fcca874b, type: 3}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 0
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 2
