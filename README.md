@@ -6,7 +6,7 @@
 
 The year's 2020 and during the peak of Australia's lockdown there's a toilet roll (or bog roll) shortage. You play as
 Jim, who, of course, always leaves things to the last minute and forgot to stock up on bog rolls. Collect as many bog
-rolls as you while discovering the many secrets on this whirlwind adventure!
+rolls as you can while discovering the many secrets on this whirlwind adventure!
 
 ## KEY FEATURES
 
