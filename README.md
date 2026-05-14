@@ -1,16 +1,20 @@
 # Welcome to Bog Roll
 
-## NOW AVAILABLE ON STEAM
-[Play on Steam](https://store.steampowered.com/app/2406060/Bog_Roll)
+## NOW AVAILABLE ON STEAM - https://store.steampowered.com/app/2406060/Bog_Roll
 
-### Contact
-For a FREE key to review the game, email [robfraserdesign@gmail.com](mailto:robfraserdesign@gmail.com)
+### Contact robfraserdesign@gmail.com for a FREE key to review the game!
 
-## Game Description
+The year's 2020 and during the peak of Australia's lockdown there's a toilet roll (or bog roll) shortage. You play as
+Jim, who, of course, always leaves things to the last minute and forgot to stock up on bog rolls. Collect as many bog
+rolls as you can while discovering the many secrets on this whirlwind adventure!
 
-The year is 2020, and Australia is in the midst of strict COVID-19 lockdowns. There's a massive shortage of toilet paper (affectionately known as 'bog roll' in Aussie slang). You play as Jim, a laid-back bloke who, like many others, left his shopping to the last minute and now finds himself in desperate need of supplies.
+## KEY FEATURES
 
-Embark on a hilarious 2D platforming adventure as Jim scours the neighborhood, shops, and hidden areas to collect as many bog rolls as possible. Along the way, uncover secrets, laugh at the quirky Aussie humor, and maybe even find some mysterious 'shungites'!
+- 2D platformer with classic pixel art
+- 7 unique levels + 1 bonus level
+- Aussie humor
+- Secrets galore
+- Hidden shungites
 
 ## Key Features
 
@@ -53,4 +57,4 @@ See [LICENSE.md](LICENSE.md) for details.
 - Developer: Rob Fraser
 - Email: robfraserdesign@gmail.com
 
-**Updated on new branch for PR review.**
+### All Art and Programming by Rob Fraser
