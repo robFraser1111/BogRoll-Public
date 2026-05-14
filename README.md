@@ -52,3 +52,5 @@ See [LICENSE.md](LICENSE.md) for details.
 - [Steam Store Page](https://store.steampowered.com/app/2406060/Bog_Roll)
 - Developer: Rob Fraser
 - Email: robfraserdesign@gmail.com
+
+**Updated on new branch for PR review.**
